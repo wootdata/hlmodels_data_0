@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 1274043286,
 	"events": [
 		{
 			"event": 2001,
@@ -288,7 +290,11 @@
 	],
 	"id": 1414743113,
 	"md5": "573cc0cd0868df110114e867a2b58e34",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "urban/arab.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

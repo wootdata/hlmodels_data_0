@@ -58,6 +58,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -92,6 +93,7 @@
 			"type": 8
 		}
 	],
+	"date": 1296495630,
 	"events": [
 		{
 			"event": 2001,
@@ -215,7 +217,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ce1429e6254b4171989e7811746d8f48",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Gman.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
