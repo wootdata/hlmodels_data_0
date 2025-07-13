@@ -20,14 +20,9 @@
 		{
 			"models": [
 				{
-					"name": "marco",
-					"polys": 648,
-					"verts": 334
-				}, 
-				{
-					"name": "marco",
-					"polys": 648,
-					"verts": 334
+					"name": "DM_recruit_reference",
+					"polys": 478,
+					"verts": 247
 				}
 			],
 			"name": "body"
@@ -36,7 +31,7 @@
 	"colorable": false,
 	"controllers": [
 		{
-			"bone": 10,
+			"bone": 8,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -44,7 +39,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 11,
+			"bone": 9,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -52,7 +47,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 12,
+			"bone": 10,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -60,7 +55,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 13,
+			"bone": 11,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
@@ -68,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1098058740,
+	"date": 1098057540,
 	"events": [
 		{
 			"event": 2001,
@@ -177,12 +172,12 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "24b65bf6cdd11af3eac5424f590ddfdf",
+	"md5": "ee4eeccde4f5299b300146cfb4431578",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "D:\\hl2\\models\\flum\\gubbe\\marco2.mdl",
+	"name": "c:\\sierra\\half-life\\gearbox\\models\\player\\DM_Recruit\\DM_Recruit.",
 	"preview": false,
-	"readme": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -571,7 +566,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 351244,
+	"size": 302276,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -594,24 +589,16 @@
 			"parent": 3
 		}, 
 		{
-			"name": "Bip01 L Toe0",
-			"parent": 4
-		}, 
-		{
 			"name": "Bip01 R Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 6
+			"parent": 5
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 7
-		}, 
-		{
-			"name": "Bip01 R Toe0",
-			"parent": 8
+			"parent": 6
 		}, 
 		{
 			"name": "Bip01 Spine",
@@ -619,51 +606,59 @@
 		}, 
 		{
 			"name": "Bip01 Spine1",
-			"parent": 10
+			"parent": 8
 		}, 
 		{
 			"name": "Bip01 Spine2",
-			"parent": 11
+			"parent": 9
 		}, 
 		{
 			"name": "Bip01 Spine3",
-			"parent": 12
+			"parent": 10
 		}, 
 		{
 			"name": "Bip01 Neck",
-			"parent": 13
+			"parent": 11
 		}, 
 		{
 			"name": "Bip01 Head",
-			"parent": 14
+			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Arm",
-			"parent": 14
+			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 16
+			"parent": 14
 		}, 
 		{
 			"name": "Bip01 L Arm2",
-			"parent": 17
+			"parent": 15
 		}, 
 		{
 			"name": "Bip01 L Hand",
-			"parent": 18
+			"parent": 16
 		}, 
 		{
 			"name": "Bip01 L Finger0",
-			"parent": 19
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 18
 		}, 
 		{
 			"name": "Bip01 L Finger1",
-			"parent": 19
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 20
 		}, 
 		{
 			"name": "Bip01 R Arm",
-			"parent": 14
+			"parent": 12
 		}, 
 		{
 			"name": "Bip01 R Arm1",
@@ -682,8 +677,16 @@
 			"parent": 25
 		}, 
 		{
+			"name": "Bip01 R Finger01",
+			"parent": 26
+		}, 
+		{
 			"name": "Bip01 R Finger1",
 			"parent": 25
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 28
 		}
 	],
 	"skins": 1,
@@ -692,26 +695,8 @@
 		{
 			"flags": 0,
 			"height": 256,
-			"name": "body.bmp",
-			"width": 176
-		}, 
-		{
-			"flags": 0,
-			"height": 128,
-			"name": "skin.bmp",
-			"width": 128
-		}, 
-		{
-			"flags": 0,
-			"height": 48,
-			"name": "boot.bmp",
-			"width": 48
-		}, 
-		{
-			"flags": 0,
-			"height": 128,
-			"name": "backpack.bmp",
-			"width": 128
+			"name": "recruit.BMP",
+			"width": 256
 		}
 	],
 	"version": 10

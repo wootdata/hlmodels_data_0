@@ -1,0 +1,50 @@
++++++++++++++++++++++++++++++++++++++++++++
++                                         +
++  Model Name:                            +
++  Marco Ross from the Game "Metal Slug"  +
++                                         +
++++++++++++++++++++++++++++++++++++++++++++
++                                         +
++  Authour:                               +
++  Model and skins made by: Jigsaw        +
++  E-mail: drbodybag@emux.net             +
++                                         +
++++++++++++++++++++++++++++++++++++++++++++
++                                         +
++  Tech Info:                             +
++  Polygons: 648                          +
++  Vertices: 346                          +
++  Skins: 4 (82k)                         +
++  Custom Animations: No                  +
++  Team Colours: No                       +
++  Work Time: 5 days passive work...      +
++  Release Date: June 14th 2000           +
++                                         +
++++++++++++++++++++++++++++++++++++++++++++
++                                         +
++  Additional Info:                       +
++  This is my first completed Player      +
++  Model for Half-Life. I tried making    +
++  some custom animations, but it turned  +
++  out to be a lot harder than i thought. +
++  When I get some more time on mu hands, +
++  I'll make models of Tarma, Eri, Fio    +
++  And possibly some other Metal Slug     +
++  characters (Hopefully I will make man- +
++  age to get some custom animations in   +
++  there). I'm quite fond of Neo-Geo      +
++  games, so my next projects will prob-  +
++  ably be SNK characters, too.           +
++                                         +
++++++++++++++++++++++++++++++++++++++++++++
++                                         +
++  Thanks to:                             +
++  Nazca Corporation and Valve, for mak-  +
++  ing such good games.                   +
++  Scarecrow, for writing great tutori-   +
++  als. ^_^v                              +
++  The people who left their comments and +
++  suggestions after I posted the pre-    +
++  view. Without you my model would suck. +
++                                         +
++++++++++++++++++++++++++++++++++++++++++++

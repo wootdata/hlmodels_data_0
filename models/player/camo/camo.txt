@@ -1,0 +1,18 @@
+Camo Grunt skin by Teppic8
+teppic8@yahoo.com
+
+Re-coloured Recon Grunt so that you can change the camo colour.
+
+Skin info:
+
+chrome: no (soon!)
+Hue shift: yes
+animation: unmodified Valve anims
+
+I extracted the skin using Mdlviewer v2.1.0402, and re-coloured it in PSP.
+
+To use, extract the .zip file (camo.bmp and camo.mdl) into valve/models/player/camo/
+
+Check out RADIATION BURN @ http://www.contaminated.net/burn for skin reviews!
+
+Teppic8
