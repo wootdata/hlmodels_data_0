@@ -1,0 +1,15 @@
+Данная модель игрока ставится по обычному пути, как и другие модели (C:/.../valve/player/)
+
+Автор модели: Team Psykskallar
+Автор порта (кстати нет, я достал из билда): zhuzhun3000
+
+Ссылка на билд: (а где??)
+
+------
+
+This player model is placed in the usual path like other models (C:/.../valve/player/).
+
+Author of the model: Team Psykskallar
+Author of the port (btw no, I got it from the build): zhuzhun3000
+
+Link to the build: (and where??)
