@@ -175,6 +175,7 @@
 	"md5": "1055ecadba2a20acebb4810f505f2d65",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/longded/longded.mdl",
 	"preview": true,
 	"readme": false,

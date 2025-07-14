@@ -175,6 +175,7 @@
 	"md5": "2b31071ef12a203906b268700cf1712f",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "models/player/emilie/emilie.mdl",
 	"preview": true,
 	"readme": false,
