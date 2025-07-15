@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ultrasonic_v2
+Source Model Hash : 872dc917958469364feba659921b2886
+Source Model Date : 1583744775 (2020/03/09)
+
+Ported Model Name : ultrasonic_v2sc
+Ported Model Hash : ebd4940adeaa8646f748c2378ece9a14
+Ported Model Date : 1752492476 (2025/07/14)

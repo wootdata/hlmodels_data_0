@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : jump
+Source Model Hash : fde33c8df325c9ec2ddcd984ca96e9c1
+Source Model Date : 1263931465 (2010/01/19)
+
+Ported Model Name : jump_v1sc
+Ported Model Hash : 7cb6f9a8bfe5a6d5ed261a7917cb6f49
+Ported Model Date : 1752491866 (2025/07/14)

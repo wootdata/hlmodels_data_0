@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : darkgir
+Source Model Hash : 265c211d3f69f40b4fca0aa08a682316
+Source Model Date : 1426773334 (2015/03/19)
+
+Ported Model Name : darkgir_v1sc
+Ported Model Hash : eebf7b0ad129279026fc2579803aea5d
+Ported Model Date : 1752491579 (2025/07/14)

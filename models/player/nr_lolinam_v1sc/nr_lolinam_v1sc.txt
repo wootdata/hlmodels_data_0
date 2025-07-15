@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nr_lolinam
+Source Model Hash : 645635abae5db8d233457980492c8cfd
+Source Model Date : 1473564065 (2016/09/10)
+
+Ported Model Name : nr_lolinam_v1sc
+Ported Model Hash : 4d15a143277408be65d985db04444396
+Ported Model Date : 1752492102 (2025/07/14)

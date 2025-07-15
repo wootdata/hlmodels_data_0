@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_actionsandmanrc7
+Source Model Hash : 379c6eb06d059fb057245aacecb82993
+Source Model Date : 1553857968 (2019/03/29)
+
+Ported Model Name : 2d_actionsandman_v1sc
+Ported Model Hash : c521d0bc18e5d4585f0e6f24ba4ee019
+Ported Model Date : 1752491304 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gangster1
+Source Model Hash : fd6a6fc7f6327342ee79238f52ea1869
+Source Model Date : 1265120785 (2010/02/02)
+
+Ported Model Name : gangster1_v1sc
+Ported Model Hash : 97a5e66e84eecacd10b1073c3ff78fdb
+Ported Model Date : 1752491670 (2025/07/14)

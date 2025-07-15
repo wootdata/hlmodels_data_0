@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : okido
+Source Model Hash : 8de095412510ea6bd8ad97b4169c53fe
+Source Model Date : 1264753158 (2010/01/29)
+
+Ported Model Name : okido_v1sc
+Ported Model Hash : c6f44da626ef1566c95c20a972d3d709
+Ported Model Date : 1752492114 (2025/07/14)

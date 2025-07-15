@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_lt_bradpquito_sg
+Source Model Hash : 95741f9e2ada64cb3f0b0ad9c30d11a3
+Source Model Date : 1542921650 (2018/11/22)
+
+Ported Model Name : 2d_bradpquito_sg_v1sc
+Ported Model Hash : ee31aac14242459cad7c5b8a449a0155
+Ported Model Date : 1752491315 (2025/07/14)

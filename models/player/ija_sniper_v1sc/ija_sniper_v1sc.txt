@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ija_sniper
+Source Model Hash : c9380e7a10a3ed36a3c4b050df618fb7
+Source Model Date : 1230746550 (2008/12/31)
+
+Ported Model Name : ija_sniper_v1sc
+Ported Model Hash : e6b88f10bad0cbb1cadcb770a50eb530
+Ported Model Date : 1752491843 (2025/07/14)

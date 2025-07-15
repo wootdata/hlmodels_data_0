@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : spiderma_v2
+Source Model Hash : 1cd5bd036733bea69c6159a83b98f6c5
+Source Model Date : 1584939084 (2020/03/22)
+
+Ported Model Name : spiderma_v2sc
+Ported Model Hash : 6b401a315a6f76e46ce9857c89fa1dbc
+Ported Model Date : 1752492309 (2025/07/14)

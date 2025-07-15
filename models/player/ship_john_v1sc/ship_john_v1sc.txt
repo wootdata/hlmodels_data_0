@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ship_john
+Source Model Hash : ed87ba38439397d4e42c5f5f577b5a1d
+Source Model Date : 1269858829 (2010/03/29)
+
+Ported Model Name : ship_john_v1sc
+Ported Model Hash : e1101bb37ce44a8d489d05fe91b07c3d
+Ported Model Date : 1752492271 (2025/07/14)

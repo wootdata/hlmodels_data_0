@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_bunny_luka
+Source Model Hash : 69aee62eaa2dac916f7945407aa41249
+Source Model Date : 1542200786 (2018/11/14)
+
+Ported Model Name : 2d_bunny_luka_v1sc
+Ported Model Hash : 1b7055c9c9a4f48d552b2f185f1b80c3
+Ported Model Date : 1752491305 (2025/07/14)

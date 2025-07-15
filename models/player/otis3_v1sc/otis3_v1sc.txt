@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : otis3
+Source Model Hash : b377dce2c7b0756f3b624fb51b589059
+Source Model Date : 1264765760 (2010/01/29)
+
+Ported Model Name : otis3_v1sc
+Ported Model Hash : ead7fc82571bee4330616993875d597e
+Ported Model Date : 1752492134 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hevephixa_v2
+Source Model Hash : b95035a68a6597dcb1fabcc6d38ae67a
+Source Model Date : 1583891739 (2020/03/10)
+
+Ported Model Name : hevephixa_v2sc
+Ported Model Hash : 6ea64eb2ff0ec4473eda380e2f213589
+Ported Model Date : 1752491786 (2025/07/14)

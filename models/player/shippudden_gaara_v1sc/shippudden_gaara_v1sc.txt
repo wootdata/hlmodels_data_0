@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : shippudden_gaara
+Source Model Hash : eb17ab81d01bcff657f25109f5216c60
+Source Model Date : 1236345554 (2009/03/06)
+
+Ported Model Name : shippudden_gaara_v1sc
+Ported Model Hash : a5530976c61b28ab806526595461347f
+Ported Model Date : 1752492270 (2025/07/14)

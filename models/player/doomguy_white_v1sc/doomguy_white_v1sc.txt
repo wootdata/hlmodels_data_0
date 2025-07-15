@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : doomguy_white
+Source Model Hash : 7d6529a0d3df71a68385f69117a9d59e
+Source Model Date : 1489347190 (2017/03/12)
+
+Ported Model Name : doomguy_white_v1sc
+Ported Model Hash : c7ddeb41529b549bc75a503fd72244d7
+Ported Model Date : 1752491619 (2025/07/14)

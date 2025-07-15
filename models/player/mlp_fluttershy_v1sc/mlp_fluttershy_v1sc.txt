@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mlp_fluttershy
+Source Model Hash : eb242bc2167f69af00c88dccedb3ef30
+Source Model Date : 1491350111 (2017/04/04)
+
+Ported Model Name : mlp_fluttershy_v1sc
+Ported Model Hash : b5e4cd8ca587145550e5fc60837a2ef8
+Ported Model Date : 1752492035 (2025/07/14)

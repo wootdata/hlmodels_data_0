@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gmassn
+Source Model Hash : 9d1448e8c6367bd79eacb7f66305e228
+Source Model Date : 1237588922 (2009/03/20)
+
+Ported Model Name : gmassn_v1sc
+Ported Model Hash : 73f6a15ed79cde37ca00b79c26efd538
+Ported Model Date : 1752491729 (2025/07/14)

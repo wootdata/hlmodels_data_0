@@ -1,0 +1,22 @@
+Terrance Player Model
+======================
+Terrance of the Terrance & Phillip show from South Park
+
+Model created by TheCorp303
+
+www.the303.org
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sp_terrance
+Source Model Hash : 3d7afca79dcd08e603381ed9646fc2f7
+Source Model Date : 1492180815 (2017/04/14)
+
+Ported Model Name : sp_terrance_v1sc
+Ported Model Hash : e1f9c56470eab82e4b7e4f68813d66a7
+Ported Model Date : 1752492317 (2025/07/14)

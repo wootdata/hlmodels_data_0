@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : barnielhypax
+Source Model Hash : 533f7f8b93427bc65ffed65981091ad4
+Source Model Date : 1609916467 (2021/01/05)
+
+Ported Model Name : barnielhypax_v1sc
+Ported Model Hash : 3b1a7c8096c0bcc69a35ce3b8b3b1d81
+Ported Model Date : 1752491404 (2025/07/14)

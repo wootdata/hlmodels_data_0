@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : toychica
+Source Model Hash : 38992ea5f856ad201b5480d2f27ac274
+Source Model Date : 1649510988 (2022/04/09)
+
+Ported Model Name : toychica_v1sc
+Ported Model Hash : e2aa63a8d61d8834f0018de66651e10b
+Ported Model Date : 1752492454 (2025/07/14)

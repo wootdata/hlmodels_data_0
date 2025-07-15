@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : alexcono
+Source Model Hash : 5f7734b66aa03796b5aefaab82ccfbab
+Source Model Date : 1433515063 (2015/06/05)
+
+Ported Model Name : alexcono_v1sc
+Ported Model Hash : 503b2a7faf58ae26ff7e753ed2ea0384
+Ported Model Date : 1752491351 (2025/07/14)

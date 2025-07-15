@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mlc_urban
+Source Model Hash : 644be93615e8e9cd4d0f52ca426ae5e4
+Source Model Date : 1266507270 (2010/02/18)
+
+Ported Model Name : mlc_urban_v1sc
+Ported Model Hash : d7b5ed884dbdbad5755824ce27290a39
+Ported Model Date : 1752492034 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mlp_scootaloo
+Source Model Hash : 3d09495f1277a93c6655fd8ad1791a08
+Source Model Date : 1491508265 (2017/04/06)
+
+Ported Model Name : mlp_scootaloo_v1sc
+Ported Model Hash : 240853e331e1bc8549b655c1df5bba83
+Ported Model Date : 1752492036 (2025/07/14)

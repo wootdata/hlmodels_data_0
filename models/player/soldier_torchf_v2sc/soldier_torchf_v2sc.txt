@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : soldier_torchf_v2
+Source Model Hash : 7b30bfb6dc2939dbd97cd50719bcc9ff
+Source Model Date : 1584003910 (2020/03/12)
+
+Ported Model Name : soldier_torchf_v2sc
+Ported Model Hash : e83fbc1fbd1169b44964e95ce0037a40
+Ported Model Date : 1752492294 (2025/07/14)

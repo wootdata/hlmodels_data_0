@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ngnl_jibril_v2
+Source Model Hash : 9c14f94c0ae8cd58c12a98439c475e80
+Source Model Date : 1563799581 (2019/07/22)
+
+Ported Model Name : ngnl_jibril_v2sc
+Ported Model Hash : 28989acec88b6088829aafc773036ef1
+Ported Model Date : 1752492093 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : wingzero
+Source Model Hash : 2badf4c9e32b7e7050b23da93629be3b
+Source Model Date : 1375547158 (2013/08/03)
+
+Ported Model Name : wingzero_v1sc
+Ported Model Hash : e13ec2f7c20eeb094143997352951046
+Ported Model Date : 1752492509 (2025/07/14)

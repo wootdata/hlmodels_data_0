@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mascaly
+Source Model Hash : c85fa67143272b10cd5adeea2b57df86
+Source Model Date : 1616024760 (2021/03/17)
+
+Ported Model Name : mascaly_v1sc
+Ported Model Hash : c3ab0d40667bcc1935f3bf10f778ae7b
+Ported Model Date : 1752491990 (2025/07/14)

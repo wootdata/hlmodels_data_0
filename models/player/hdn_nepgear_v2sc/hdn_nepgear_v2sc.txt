@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hdn_nepgear_v2
+Source Model Hash : 8227368154f3c5d52af931f95528ddcd
+Source Model Date : 1702412862 (2023/12/12)
+
+Ported Model Name : hdn_nepgear_v2sc
+Ported Model Hash : b74240d57320468e58f7544d2a3115cd
+Ported Model Date : 1752491775 (2025/07/14)

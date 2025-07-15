@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tsclairehead
+Source Model Hash : 3698ab70f318a871dd6a8d916fc98de2
+Source Model Date : 1615977479 (2021/03/17)
+
+Ported Model Name : tsclairehead_v1sc
+Ported Model Hash : 59f0e40ed97b0146806c0f36e0daa609
+Ported Model Date : 1752492461 (2025/07/14)

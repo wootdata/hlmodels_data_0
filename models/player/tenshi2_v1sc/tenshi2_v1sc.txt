@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tenshi2
+Source Model Hash : 7246a39f73bc1f36874f9e9c80a30502
+Source Model Date : 1319635358 (2011/10/26)
+
+Ported Model Name : tenshi2_v1sc
+Ported Model Hash : a38a6344f55e4143279eb6952fcab78f
+Ported Model Date : 1752492399 (2025/07/14)

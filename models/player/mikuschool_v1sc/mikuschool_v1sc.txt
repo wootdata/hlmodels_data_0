@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mikuschool
+Source Model Hash : 11a4bb853a0401f306ed9896202896de
+Source Model Date : 1446124085 (2015/10/29)
+
+Ported Model Name : mikuschool_v1sc
+Ported Model Hash : cadf623b7ec049e974f5a837363ed512
+Ported Model Date : 1752492021 (2025/07/14)

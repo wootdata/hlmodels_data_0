@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : abarn1
+Source Model Hash : d4e8a74df73bba1140b1ed2bdfa8d051
+Source Model Date : 1430138226 (2015/04/27)
+
+Ported Model Name : abarn1_v1sc
+Ported Model Hash : 720a714ca1bfd3b9ba59985894eb7dcc
+Ported Model Date : 1752491328 (2025/07/14)

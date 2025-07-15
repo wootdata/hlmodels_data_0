@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lol_ahri
+Source Model Hash : fe8ef73b9bc4a8dd76a73a122a5ece36
+Source Model Date : 1351581158 (2012/10/30)
+
+Ported Model Name : lol_ahri_v1sc
+Ported Model Hash : ca0410a07401296df641c3154729503a
+Ported Model Date : 1752491959 (2025/07/14)

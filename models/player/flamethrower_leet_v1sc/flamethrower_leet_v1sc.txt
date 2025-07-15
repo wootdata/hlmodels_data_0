@@ -1,0 +1,54 @@
+
+-----------------------------------------------------------------------------
+   "Flamethrower Leet" (reskin by SPASTiC CHiLD, model by AMD)   21/11/01
+-----------------------------------------------------------------------------
+
+TO INSTALL: Paste the cstrike folder inside the halflife folder on your hard drive.
+        
+            This will replace your current leet model and vgui.
+
+
+For comments email to:    spastic@specialskool.waistdeepinentrails.co.uk
+
+CHECK OUT THE 'CLAN SPECIAL SCHOOL' WEBSITE FOR MORE SPASTiC sKINZ:- 
+
+http://www.specialskool.waistdeepinentrails.co.uk
+
+
+
+
+-----=====SPASTiC CHiLD=====------
+
+
+-----------
+!readme.txt
+-----------
+Flamethrower Leet
+
+The author of alteration WST (W0RST,SeIer,ToD.) 
+
+Installation: To place contents of archive in a directory cstrike\
+
+Files: Leet.mdl
+
+The used programs: MilkShape 3D, Jed's HMV
+
+Date of release: 23.05.08
+
+W0RST@bk.ru 
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : flamethrower_leet
+Source Model Hash : e30e3376e59953a78e88fb671bb4f1e1
+Source Model Date : 1263753756 (2010/01/17)
+
+Ported Model Name : flamethrower_leet_v1sc
+Ported Model Hash : 4480225befc398cb5b9f47dc85e964f6
+Ported Model Date : 1752491652 (2025/07/14)

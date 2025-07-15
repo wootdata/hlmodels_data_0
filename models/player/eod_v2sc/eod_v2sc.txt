@@ -1,0 +1,22 @@
+Credits:
+
+Model: Gearbox/Valve (don't really know)
+Skin: Gearbox/Valve (don't really know)
+Skull: Used it from some Photoshop 7 brush pack
+Black Recolor/Red Visor Recolor/Skull Apply: End Of Days
+Anim Transfer: CyborgDragon
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : eod_v2
+Source Model Hash : ca7bd2716a61facd463020e52f23e147
+Source Model Date : 1583830372 (2020/03/10)
+
+Ported Model Name : eod_v2sc
+Ported Model Hash : b2bf903dfcc129dc8b6f21b57b17bd76
+Ported Model Date : 1752491635 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lt_amatsukaze
+Source Model Hash : ebb27573197a585ee74d82756f6a1d9f
+Source Model Date : 1541883043 (2018/11/10)
+
+Ported Model Name : lt_amatsukaze_v1sc
+Ported Model Hash : bd1bbc9364a533011ff9598e67f48398
+Ported Model Date : 1752491967 (2025/07/14)

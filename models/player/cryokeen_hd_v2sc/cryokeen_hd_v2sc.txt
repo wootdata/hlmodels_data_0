@@ -1,0 +1,26 @@
+Skin/Model by CryoKeen
+
+cryogenickeen@gmail.com
+
+or find me on the svencoop forums
+
+www.svencoop.com/forums
+
+Feel free to use my skin, just don't pretend to be me!
+
+HD model by Garompa
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cryokeen_hd_v2
+Source Model Hash : 2e3df19939cc72ab57b58c02d583e8d3
+Source Model Date : 1571240553 (2019/10/16)
+
+Ported Model Name : cryokeen_hd_v2sc
+Ported Model Hash : cb9fc48878fe6ecd9a298dff624ae938
+Ported Model Date : 1752491539 (2025/07/14)

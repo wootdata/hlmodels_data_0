@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ps_medium
+Source Model Hash : 8719e2a40b258b5426069eec0fd40b44
+Source Model Date : 1265807718 (2010/02/10)
+
+Ported Model Name : ps_medium_v1sc
+Ported Model Hash : bc6445b7364a2d1da5d6dd06f73629a2
+Ported Model Date : 1752492172 (2025/07/14)

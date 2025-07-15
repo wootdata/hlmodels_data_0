@@ -1,0 +1,29 @@
+ReadMe
+
+Creator: Bananaboy
+Svencoop Forum Username: Bananaboy
+
+Bananaboy is the creator of Bananaboy. 
+
+All i did was reskin them to RED, BLUE, BLACK, PINK, YELLOW, ALL.
+
+In the Bananaboy_All model all i did was messed around with the colours :P So.... Don't comment on how he looks :D
+
+I asked permission of bananaboy to do these.
+
+Thank you and enjoy the models.
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bananaboy_all
+Source Model Hash : e9ed0c6f6b51b9b3dba97b7c471d264e
+Source Model Date : 1424431097 (2015/02/20)
+
+Ported Model Name : bananaboy_all_v1sc
+Ported Model Hash : 647ef100b60f4453c62a63dd3bf6915e
+Ported Model Date : 1752491399 (2025/07/14)

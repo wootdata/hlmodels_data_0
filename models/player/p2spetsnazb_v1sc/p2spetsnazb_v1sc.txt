@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : p2spetsnazb
+Source Model Hash : a3a4ab9e4b087ed6ddf63316c98a5f92
+Source Model Date : 1617834252 (2021/04/07)
+
+Ported Model Name : p2spetsnazb_v1sc
+Ported Model Hash : 6f10d8269c787bfc9786704a15482c09
+Ported Model Date : 1752492139 (2025/07/14)

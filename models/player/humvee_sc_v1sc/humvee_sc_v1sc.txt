@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : humvee_sc
+Source Model Hash : 5b6432df091c0c20bd5dc727608c85b5
+Source Model Date : 1192527816 (2007/10/16)
+
+Ported Model Name : humvee_sc_v1sc
+Ported Model Hash : 9954c74aad3a7621e066a9566f2c8a3b
+Ported Model Date : 1752491836 (2025/07/14)

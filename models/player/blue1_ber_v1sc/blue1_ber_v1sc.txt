@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : blue1_ber
+Source Model Hash : f0d8e47ebc5281c4fd3d230c66a096e7
+Source Model Date : 1268058520 (2010/03/08)
+
+Ported Model Name : blue1_ber_v1sc
+Ported Model Hash : b65b27adb02c83cd99521b35c1cbd184
+Ported Model Date : 1752491437 (2025/07/14)

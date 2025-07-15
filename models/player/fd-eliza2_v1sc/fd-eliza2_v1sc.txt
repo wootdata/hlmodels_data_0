@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fd-eliza2
+Source Model Hash : 413003b3f0eb507bfb7ba1097412ef08
+Source Model Date : 1263577347 (2010/01/15)
+
+Ported Model Name : fd-eliza2_v1sc
+Ported Model Hash : b37ca8a1d2abc7ea0f771c2fedbea07a
+Ported Model Date : 1752491646 (2025/07/14)

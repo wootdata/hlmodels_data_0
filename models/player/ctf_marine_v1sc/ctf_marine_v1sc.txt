@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ctf_marine
+Source Model Hash : 414e5e42d7eeee64218ebe490681dfee
+Source Model Date : 1549733633 (2019/02/09)
+
+Ported Model Name : ctf_marine_v1sc
+Ported Model Hash : e392dd0a8321cc722efe75280a72cfe9
+Ported Model Date : 1752491568 (2025/07/14)

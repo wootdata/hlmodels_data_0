@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_kf_tsuchinoko
+Source Model Hash : 982965ecfc888a98c9e6eda9834cfbfe
+Source Model Date : 1552249136 (2019/03/10)
+
+Ported Model Name : 2d_kf_tsuchinoko_v1sc
+Ported Model Hash : 0f4a0ee1abb35b2a096c0c67ea1f98e9
+Ported Model Date : 1752491314 (2025/07/14)

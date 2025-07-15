@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lp_yellow
+Source Model Hash : 2af956506e8a5430c3ff7bab96f966d5
+Source Model Date : 1538981231 (2018/10/07)
+
+Ported Model Name : lp_yellow_v1sc
+Ported Model Hash : 4d8e958cfa71332eb42be7c8582dc47c
+Ported Model Date : 1752491966 (2025/07/14)

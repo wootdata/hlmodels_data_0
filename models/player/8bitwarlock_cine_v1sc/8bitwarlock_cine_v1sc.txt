@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 8bitwarlock_cinema_fix
+Source Model Hash : 96ad91cbe0558e65286cd95cda0d76b4
+Source Model Date : 1330294536 (2012/02/26)
+
+Ported Model Name : 8bitwarlock_cine_v1sc
+Ported Model Hash : ca4effdff44f1439efc6e533850a70dd
+Ported Model Date : 1752491324 (2025/07/14)

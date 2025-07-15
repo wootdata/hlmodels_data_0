@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ta_c_s_advisor_v2
+Source Model Hash : edfecf80c535cbfc570a5eff1853e3e6
+Source Model Date : 1661805570 (2022/08/29)
+
+Ported Model Name : ta_c_s_advisor_v2sc
+Ported Model Hash : ba23e6a68b6c5c1ac574c5250f164473
+Ported Model Date : 1752492383 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ubcs_umbrella
+Source Model Hash : a8db6e7b115607ddb60d2b5ade13349f
+Source Model Date : 1445936488 (2015/10/27)
+
+Ported Model Name : ubcs_umbrella_v1sc
+Ported Model Hash : eea1c9bff3c63ed13143ae65cccdda3b
+Ported Model Date : 1752492466 (2025/07/14)

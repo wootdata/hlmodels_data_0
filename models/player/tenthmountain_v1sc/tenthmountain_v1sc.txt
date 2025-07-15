@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tenthmountain
+Source Model Hash : 30c7eb7231ccf50780b06134bf7fec1f
+Source Model Date : 1546440550 (2019/01/02)
+
+Ported Model Name : tenthmountain_v1sc
+Ported Model Hash : d8721a372e6369cbc0104a7c2ec73962
+Ported Model Date : 1752492400 (2025/07/14)

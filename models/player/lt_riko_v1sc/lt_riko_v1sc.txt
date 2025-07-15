@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lt_riko
+Source Model Hash : fd222b455dcfc67171566aad986224f7
+Source Model Date : 1541883045 (2018/11/10)
+
+Ported Model Name : lt_riko_v1sc
+Ported Model Hash : 75d3e4a5341c7d0df1d1bcf8cb8f9336
+Ported Model Date : 1752491970 (2025/07/14)

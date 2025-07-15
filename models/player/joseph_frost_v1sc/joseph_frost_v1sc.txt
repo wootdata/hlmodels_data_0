@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : joseph_frost
+Source Model Hash : 7d827fe230e9fdedfbf374ef61b422fe
+Source Model Date : 1263930980 (2010/01/19)
+
+Ported Model Name : joseph_frost_v1sc
+Ported Model Hash : a50522a799676c1c4c38a9b0b53f64d2
+Ported Model Date : 1752491865 (2025/07/14)

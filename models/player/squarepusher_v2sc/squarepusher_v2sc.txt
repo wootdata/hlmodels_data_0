@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : squarepusher_v2
+Source Model Hash : b12391adb8da751be4f0a1afb6d59c5e
+Source Model Date : 1330294528 (2012/02/26)
+
+Ported Model Name : squarepusher_v2sc
+Ported Model Hash : 504911ab0fed519a26bf31b86a6f6a09
+Ported Model Date : 1752492317 (2025/07/14)

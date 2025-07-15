@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rustywalker
+Source Model Hash : 090b1f7eda975affaadea24d8c17c1f4
+Source Model Date : 1419123452 (2014/12/20)
+
+Ported Model Name : rustywalker_v1sc
+Ported Model Hash : 8d019ca1ad398a580fcaf1fd79006d2b
+Ported Model Date : 1752492226 (2025/07/14)

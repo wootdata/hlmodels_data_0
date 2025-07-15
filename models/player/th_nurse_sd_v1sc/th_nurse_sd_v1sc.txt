@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : th_nurse_sd
+Source Model Hash : c8ff219f41a25998eef2ebe5f6b8a516
+Source Model Date : 1511085602 (2017/11/19)
+
+Ported Model Name : th_nurse_sd_v1sc
+Ported Model Hash : ca398c6011ee4d214a60e129c5d14dbb
+Ported Model Date : 1752492419 (2025/07/14)

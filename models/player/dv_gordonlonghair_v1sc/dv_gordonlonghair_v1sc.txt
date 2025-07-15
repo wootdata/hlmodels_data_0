@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dv_gordonlonghair
+Source Model Hash : 62d59eabbd733a4a9ca26faaf302713b
+Source Model Date : 1709094622 (2024/02/27)
+
+Ported Model Name : dv_gordonlonghair_v1sc
+Ported Model Hash : fc2b6fe4e909731f973dd008a9307bdd
+Ported Model Date : 1752491627 (2025/07/14)

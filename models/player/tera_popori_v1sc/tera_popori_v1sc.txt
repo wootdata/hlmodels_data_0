@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tera_popori
+Source Model Hash : 16fcd488baff2501cca025c240cda388
+Source Model Date : 1525470524 (2018/05/04)
+
+Ported Model Name : tera_popori_v1sc
+Ported Model Hash : ee3a8079671f9fba7be2b474cc6e6a37
+Ported Model Date : 1752492400 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : prisoner_walter
+Source Model Hash : 2352a6ed79fc12b1152f1e658cced1a5
+Source Model Date : 1535809159 (2018/09/01)
+
+Ported Model Name : prisoner_walter_v1sc
+Ported Model Hash : 308527e99f1cfcb6632ce5fede0bc1e2
+Ported Model Date : 1752492169 (2025/07/14)

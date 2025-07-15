@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dark_mechabrs_v2
+Source Model Hash : 3d052fb8b9a05dafdde5e43b24456bbc
+Source Model Date : 1429145617 (2015/04/15)
+
+Ported Model Name : dark_mechabrs_v2sc
+Ported Model Hash : ce188ee075d422dfb59183be7c45bdea
+Ported Model Date : 1752491580 (2025/07/14)

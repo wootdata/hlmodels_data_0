@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pcr_yuni
+Source Model Hash : 38073311033cf506fbb0209e9bf91910
+Source Model Date : 1704222058 (2024/01/02)
+
+Ported Model Name : pcr_yuni_v1sc
+Ported Model Hash : dd05b5dbc89077bce8a111117da5cec3
+Ported Model Date : 1752492150 (2025/07/14)

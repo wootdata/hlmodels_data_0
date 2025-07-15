@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : grudge_v2
+Source Model Hash : 453a2c7f661b38974578857c32066c28
+Source Model Date : 1583884269 (2020/03/10)
+
+Ported Model Name : grudge_v2sc
+Ported Model Hash : 0fb44c62b998732093a7211aab13ba48
+Ported Model Date : 1752491742 (2025/07/14)

@@ -1,0 +1,16 @@
+This model from of "Holy Wars" MOD.Adapted by Becromancer.
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bad
+Source Model Hash : bd6a8565daae72aabda5f8ca8d5c46f9
+Source Model Date : 1267788587 (2010/03/05)
+
+Ported Model Name : bad_v1sc
+Ported Model Hash : 22104487ae43216dddb5f8f724022b06
+Ported Model Date : 1752491397 (2025/07/14)

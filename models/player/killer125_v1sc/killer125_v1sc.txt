@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : killer125
+Source Model Hash : e15b3235694a63bc2f96f890815e0f42
+Source Model Date : 1725983798 (2024/09/10)
+
+Ported Model Name : killer125_v1sc
+Ported Model Hash : 6f69e810ca276a042104d83dfde4aeb8
+Ported Model Date : 1752491889 (2025/07/14)

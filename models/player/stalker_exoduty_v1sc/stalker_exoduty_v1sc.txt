@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : stalker_exoduty
+Source Model Hash : ccf6d623a55851f4047ca366fff668bb
+Source Model Date : 1230403860 (2008/12/27)
+
+Ported Model Name : stalker_exoduty_v1sc
+Ported Model Hash : fa35fb03bd8c29af9e58115095810239
+Ported Model Date : 1752492331 (2025/07/14)

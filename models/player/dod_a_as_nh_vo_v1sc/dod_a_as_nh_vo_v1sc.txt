@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dod_a_as_nh_vo
+Source Model Hash : 9d3025331ca5c2d7d5a1e1607f04c574
+Source Model Date : 1702150213 (2023/12/09)
+
+Ported Model Name : dod_a_as_nh_vo_v1sc
+Ported Model Hash : 5ae93d26fee2ec465c3d30199a5b5643
+Ported Model Date : 1752491614 (2025/07/14)

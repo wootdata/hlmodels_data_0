@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dryad
+Source Model Hash : a276cdeacdde0943022db999258a19fc
+Source Model Date : 1267111172 (2010/02/25)
+
+Ported Model Name : dryad_v1sc
+Ported Model Hash : 219fdfd724e4dbd4ee57087745770a13
+Ported Model Date : 1752491623 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : justislave_v2
+Source Model Hash : 97e75361ad5072cf97ee3764e27afe90
+Source Model Date : 1562356402 (2019/07/05)
+
+Ported Model Name : justislave_v2sc
+Ported Model Hash : ccced8ff716f70e60688ec72f4561307
+Ported Model Date : 1752491867 (2025/07/14)

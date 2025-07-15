@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : op4_slick_dcp2
+Source Model Hash : cb8435b54a7cee4fd536d213ee142d53
+Source Model Date : 1604508177 (2020/11/04)
+
+Ported Model Name : op4_slick_dcp2_v1sc
+Ported Model Hash : d535ce1c1e40b4faa5691219bef27ec7
+Ported Model Date : 1752492126 (2025/07/14)

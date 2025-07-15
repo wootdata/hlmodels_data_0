@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sc2_marine_3
+Source Model Hash : 6853f0977908eafbc15c83066b686411
+Source Model Date : 1687450558 (2023/06/22)
+
+Ported Model Name : sc2_marine_3_v1sc
+Ported Model Hash : 79bbd58797ab95095caad4dadcadabdf
+Ported Model Date : 1752492243 (2025/07/14)

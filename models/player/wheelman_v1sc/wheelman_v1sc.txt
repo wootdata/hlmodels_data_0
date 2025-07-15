@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : wheelman
+Source Model Hash : fdf421591040e2a1a2cf17a5021182e9
+Source Model Date : 1455995456 (2016/02/20)
+
+Ported Model Name : wheelman_v1sc
+Ported Model Hash : 16cf975f820ddfc2b08df5f2517034c2
+Ported Model Date : 1752492507 (2025/07/14)

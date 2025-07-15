@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : final_starman
+Source Model Hash : 06f9803a52b7b5b8e3d61701a062a951
+Source Model Date : 1583300938 (2020/03/03)
+
+Ported Model Name : final_starman_v1sc
+Ported Model Hash : 35796304444a60964f03cf5249a7dc99
+Ported Model Date : 1752491651 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : miketama
+Source Model Hash : bde33d6127f4ecf975811a98c925e566
+Source Model Date : 1542979408 (2018/11/23)
+
+Ported Model Name : miketama_v1sc
+Ported Model Hash : e1838bc547fa8259642956a0fbc95d9c
+Ported Model Date : 1752492016 (2025/07/14)

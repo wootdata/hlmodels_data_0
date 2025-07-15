@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : prowler
+Source Model Hash : a2b909aaa55656ef3e9f28fd391646b6
+Source Model Date : 1591042130 (2020/06/01)
+
+Ported Model Name : prowler_v1sc
+Ported Model Hash : 2cd019de8a7dd23440cfe12437345d82
+Ported Model Date : 1752492169 (2025/07/14)

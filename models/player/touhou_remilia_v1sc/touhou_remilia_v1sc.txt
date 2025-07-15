@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_remilia
+Source Model Hash : 4207bc9ccd7294b0b125e81f284bb0ba
+Source Model Date : 1456216478 (2016/02/23)
+
+Ported Model Name : touhou_remilia_v1sc
+Ported Model Hash : 0ea5150417ccb43a359e4c3db84fc0da
+Ported Model Date : 1752492444 (2025/07/14)

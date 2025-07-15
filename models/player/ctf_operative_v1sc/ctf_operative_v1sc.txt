@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ctf_operative
+Source Model Hash : ac90f40c0f5f4fd0952877fc2a6118b1
+Source Model Date : 1549733631 (2019/02/09)
+
+Ported Model Name : ctf_operative_v1sc
+Ported Model Hash : e1deef9ef5819db9e6408cfc13adb8c7
+Ported Model Date : 1752491568 (2025/07/14)
