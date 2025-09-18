@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tbunnygirlcc_sc_v2
+Source Model Hash : 111f277655f24d9597267b85da0717f3
+Source Model Date : 1758207372 (2025/09/18)
+
+Ported Model Name : tbunnygirlcc_sc_v2sc
+Ported Model Hash : bbdf569b49849905070948b1034936e0
+Ported Model Date : 1758225770 (2025/09/18)
