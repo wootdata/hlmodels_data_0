@@ -1,0 +1,4 @@
+Model: Bank_Robber
+Athor: [W2H] PC Punisher
+Released: 11/05/00
+Size: 157 kb.

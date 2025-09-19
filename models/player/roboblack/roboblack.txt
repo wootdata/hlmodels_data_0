@@ -1,0 +1,10 @@
+                         RoboBlack
+
+Another quick Robo skin, RoboBlack
+Hope you like it! 
+   
+
+INSTALLATION:  UNZIP INTO  halflife\valve\models\player\RoboBlack  folder
+
+
+         FYA    MARQUIS   for  skins (m.haly@cwcom.net)

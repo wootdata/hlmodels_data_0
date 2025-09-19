@@ -1,0 +1,10 @@
+This is my first model, it is my own personal one but im sure others will use it. 
+
+Just put in an directory named "korn" in your models/players directory
+check your color settings, some pixels still change color (blue top and bottom is best) so adjust accordingly.
+
+Send comments and questions to korn@nw.com.au
+or
+http://www.axg.net/half-life
+
+

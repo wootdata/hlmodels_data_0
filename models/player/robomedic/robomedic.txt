@@ -1,0 +1,10 @@
+                         RoboMedic
+
+Another Robo skin, Black Mesa RoboMedic
+Hope you like it! 
+   
+
+INSTALLATION:  UNZIP INTO  halflife\valve\models\player\RoboMedic  folder
+
+
+         FYA    MARQUIS   for  skins (m.haly@cwcom.net)
