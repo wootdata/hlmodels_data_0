@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fathergarcia_b
+Source Model Hash : f6ae1d317f96aa04af114c9c43874c69
+Source Model Date : 1759186632 (2025/09/29)
+
+Ported Model Name : fathergarcia_b_v1sc
+Ported Model Hash : 8f673003fca7d7e3d6954b9783dbd332
+Ported Model Date : 1762777779 (2025/11/10)
